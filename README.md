@@ -16,7 +16,7 @@ This MCP server exposes a single tool `execute_python_code` that allows AI assis
 ## Prerequisites
 
 - Python 3.11 or higher
-- A Python interpreter REST API service running on `localhost:50081`
+- A Python interpreter REST API service running on `localhost:50081` (such as [BeeAI Code Interpreter](https://github.com/i-am-bee/beeai-code-interpreter))
 
 ## Installation
 
